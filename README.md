@@ -1,2 +1,2 @@
 # Bookings
-ECM1410 This is a bookin system for covid
+ECM1410 This is a booking system for covid
